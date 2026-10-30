@@ -3,7 +3,7 @@
 A standalone, responsive property-gallery interface inspired by the supplied UI reference. Plain HTML, CSS and JavaScript; no framework, install step, server, or database.
 
 ## Features
-- Six room photographs; click thumbnails or use left/right arrow keys.
+- Seven room photographs; click thumbnails or use left/right arrow keys.
 - Expand/collapse the gallery; Escape exits the expanded view.
 - Show/hide the translucent property-details panel.
 - Switch between three illustrative residences.
