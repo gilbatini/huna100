@@ -1,4 +1,4 @@
-# Huna for Huna — Residence gallery demo
+# Huna Heights Apartments — residence gallery
 
 A standalone, responsive property-gallery interface inspired by the supplied UI reference. Plain HTML, CSS and JavaScript; no framework, install step, server, or database.
 
