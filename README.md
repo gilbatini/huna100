@@ -4,7 +4,7 @@ A standalone, responsive property-gallery interface inspired by the supplied UI 
 
 ## Features
 - Site menu (drawer) on every page.
-- Availability dashboard (`dashboard.html`): totals, mix by apartment type, a floor-by-floor building view and a filterable unit list. Data lives in `dist/estate.js`, mirrored from the main Huna Heights repo.
+- Floor by floor dashboard (`dashboard.html`): totals, mix by apartment type, a floor-by-floor building view and a filterable unit list. Data lives in `dist/estate.js`, mirrored from the main Huna Heights repo.
 - Seven room photographs; click thumbnails or use left/right arrow keys.
 - Expand/collapse the gallery; Escape exits the expanded view.
 - Show/hide the translucent property-details panel.
